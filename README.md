@@ -1,4 +1,4 @@
-<h1 style="marggin:0; padding:0; display: flex; justify-content: start; align-items: center;">
+<h1 style="marggin:0; padding:0; display: flex; justify-content: start; align-items: center; color: white">
   Hi 👋🏼 dear,&nbsp; 
   <span>
     <img style="margin-top:15px; display: flex; justify-content: start; align-items: center; align-self: center;" src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=900&size=25&pause=1000&color=633BBC&vCenter=true&width=650&lines=I'm+C%C3%ADcero.;Welcome+to+my+profile.;At+the+bottom+of+the+page%2C+links+to+my+social+networks.">
