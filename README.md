@@ -31,7 +31,7 @@
 
 ## 💬 Wanna have a chat?
 
-<p align="left" style="background: tranparent">
+<p align="left" style="background: tranparent; display: flex; justfy-content: center; align-items: center; gap: 15px">
   <!-- <a href="https://codepen.io/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=codepen" alt="codepen"/>
   </a> -->
