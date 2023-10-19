@@ -7,7 +7,7 @@
 
 <div style="marggin:0; padding:0; display: flex; justify-content: space-between; align-items: center;">
     <h3>System Analyst, graduated in IoT.</h3>
-    <img src="https://komarev.com/ghpvc/?username=cicerosnt&color=yellow" alt="Profile views" />
+    
 </div>
 
 - 🔭 I’m currently working on [IT2B](https://www.it2b.com.br)
@@ -44,6 +44,7 @@
   <a href="https://instagram.com/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=cicerosnt&color=yellow" alt="Profile views" />
   <!-- <a href="https://youtube.com/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=youtube" alt="youtube"/>
   </a> -->
