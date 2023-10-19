@@ -49,7 +49,7 @@
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=youtube" alt="youtube"/>
   </a> -->
 
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://twitter.com/cicerosnt" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=twitter" alt="twitter>  
     </a>
