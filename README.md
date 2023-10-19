@@ -29,8 +29,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=cicerosnt&color=yellow" alt="Profile views" />
 
-<br><br>
-
 ## 💬 Wanna have a chat?
 
 <p align="left" style="background: tranparent; display: flex; justfy-content: center; align-items: center; gap: 15px">
