@@ -44,7 +44,6 @@
   <a href="https://instagram.com/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=cicerosnt&color=yellow" alt="Profile views" />
   <!-- <a href="https://youtube.com/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=youtube" alt="youtube"/>
   </a> -->  
