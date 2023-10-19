@@ -27,6 +27,8 @@
 
 - ⚡ Met's **talk ☕**
 
+  <img src="https://komarev.com/ghpvc/?username=cicerosnt&color=yellow" alt="Profile views" />
+
 <br><br>
 
 ## 💬 Wanna have a chat?
@@ -47,19 +49,5 @@
   <img src="https://komarev.com/ghpvc/?username=cicerosnt&color=yellow" alt="Profile views" />
   <!-- <a href="https://youtube.com/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=youtube" alt="youtube"/>
-  </a> -->
-
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <a href="https://twitter.com/cicerosnt" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=twitter" alt="twitter>  
-    </a>
-    <a href="https://linkedin.com/in/cicerosnt" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-    </a>
-    <a href="https://instagram.com/cicerosnt" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=instagram" alt="instagram"/>
-    </a>
-    <a><img src="https://komarev.com/ghpvc/?username=cicerosnt&color=yellow" alt="Profile views" /></a>
-  </div>
-  
+  </a> -->  
 </p>
