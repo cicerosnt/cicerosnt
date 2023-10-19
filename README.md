@@ -48,4 +48,9 @@
   <!-- <a href="https://youtube.com/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=youtube" alt="youtube"/>
   </a> -->
+
+  <div style="display: flex; justify-content: center; gap: 20px;">
+<img src="https://komarev.com/ghpvc/?username=cicerosnt&color=yellow" alt="Profile views" /><img src="https://komarev.com/ghpvc/?username=cicerosnt&color=yellow" alt="Profile views" />
+  </div>
+  
 </p>
