@@ -35,7 +35,7 @@
   <!-- <a href="https://codepen.io/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=codepen" alt="codepen"/>
   </a> -->
-  <a href="https://twitter.com/cicerosnt" target="_blank">
+  <a style="text-decoration: none" href="https://twitter.com/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=twitter" alt="twitter>  
   </a>
   <a href="https://linkedin.com/in/cicerosnt" target="_blank">
