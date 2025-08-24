@@ -10,41 +10,39 @@
     
 </div>
 
-- 🔭 I’m currently working on [IT2B](https://www.it2b.com.br)
+- 🔭 I’m currently working on [IFSP](https://https://ctd.ifsp.edu.br/)
 
 
 - 📰 I (not) regularly post something on [Linkedin](https://linkedin.com/in/cicerosnt/)
 
 - 👍 I have fun with <span align="left">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/> 
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/> 
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> 
-                    </span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> 
+</span>
 
 <!-- - 📫 How to reach me **cicero.dsantos@outlook.com.br** -->
 - 👉 More at [cicerosnt.com.br](http://cicerosnt.com.br)
 
 - ⚡ Met's **talk ☕**
 
-  <img src="https://komarev.com/ghpvc/?username=cicerosnt&color=yellow" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cicerosnt&color=blue" alt="Profile views" />
 
-## 💬 Wanna have a chat?
+> Wanna have a chat?
 
+<!--
 <p align="left" style="background: tranparent; display: flex; justfy-content: center; align-items: center; gap: 15px">
-  <!-- <a href="https://codepen.io/cicerosnt" target="_blank">
+   <a href="https://codepen.io/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=codepen" alt="codepen"/>
-  </a> -->
-  <a style="text-decoration: none" href="https://twitter.com/cicerosnt" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=twitter" alt="twitter>  
+  </a>
+  <a style="text-decoration: none" href="https://x.com/cicerosnt" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=x" alt="x>  
   </a>
   <a href="https://linkedin.com/in/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/cicerosnt" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
-  <!-- <a href="https://youtube.com/cicerosnt" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=youtube" alt="youtube"/>
-  </a> -->  
-</p>
+  </a> 
+</p> -->
