@@ -1,48 +1,40 @@
-<h1 style="marggin:0; padding:0; display: flex; justify-content: start; align-items: center; color: white">
-  Hi 👋🏼 dear, I'm Cícero
-</h1>
+<div align="left">
+  <h1>👋🏼 Ôpa! Cícero aqui.</h1>
+  
+  <h3>Tecnologia 💜 IoT 💜 Automação 💜</h3>
 
-  <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=900&size=24&pause=1000&color=E9E7FF&vCenter=true&width=435&lines=I'am+C%C3%ADcero.;Welcome+to+my+profile.;At+the+bottom+of+the+page%2C+links+to+my+social+networks.)](https://git.io/typing-svg) -->
+  <p>
+    Entusiasta de tecnologia dedicado a explorar e testar projetos de <b>Internet das Coisas (IoT)</b> e automação, transformar ideias em soluções conectadas.
+  </p>
 
+  <br>
 
-<div style="marggin:0; padding:0; display: flex; justify-content: space-between; align-items: center;">
-    <h3>System Analyst, graduated in IoT.</h3>
-    
+  <p>
+    🔭 Trabalho no <a href="https://ctd.ifsp.edu.br/" target="_blank">IFSP</a>
+    <br>
+    📰 Conecte-se comigo no <a href="https://linkedin.com/in/cicerosnt/" target="_blank">LinkedIn</a>
+
+  </p>
+  
+  <h3>Tecnologias e Ferramentas:</h3>
+
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="25" height="25"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="25" height="25"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="25" height="25"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="25" height="25"/>
+  </p>
+
+  <br>
+
+  <p>
+    ☕ Fale comigo <a href="http://cicerosnt.com.br"><strong>clicando aqui ⚡</strong></a>
+  </p>
 </div>
 
-- 🔭 I’m currently working on [IFSP](https://https://ctd.ifsp.edu.br/)
-
-
-- 📰 I (not) regularly post something on [Linkedin](https://linkedin.com/in/cicerosnt/)
-
-- 👍 I have fun with <span align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> 
-</span>
-
-<!-- - 📫 How to reach me **cicero.dsantos@outlook.com.br** -->
-- 👉 More at [cicerosnt.com.br](http://cicerosnt.com.br)
-
-- ⚡ Met's **talk ☕**
-
-  <img src="https://komarev.com/ghpvc/?username=cicerosnt&color=blue" alt="Profile views" />
-
-> Wanna have a chat?
-
-<!--
-<p align="left" style="background: tranparent; display: flex; justfy-content: center; align-items: center; gap: 15px">
-   <a href="https://codepen.io/cicerosnt" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=codepen" alt="codepen"/>
-  </a>
-  <a style="text-decoration: none" href="https://x.com/cicerosnt" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=x" alt="x>  
-  </a>
-  <a href="https://linkedin.com/in/cicerosnt" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://instagram.com/cicerosnt" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-cicerosnt-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a> 
-</p> -->
+<img src="https://komarev.com/ghpvc/?username=cicerosnt&color=blue" alt="Profile views" hidden style="display: none: visibility: invisible" />
