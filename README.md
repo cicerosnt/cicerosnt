@@ -37,4 +37,4 @@
   </p>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=cicerosnt&color=blue" alt="Profile views" hidden style="display: none: visibility: invisible" hidden style="display: none, visibility: hidden" />
+<!-- <img src="https://komarev.com/ghpvc/?username=cicerosnt&color=blue" alt="Profile views" hidden style="display: none: visibility: invisible" hidden style="display: none, visibility: hidden" /> -->
