@@ -33,7 +33,7 @@
   <br>
 
   <p>
-    ☕ Fale comigo <a href="http://cicerosnt.com.br"><strong>clicando aqui ⚡</strong></a>
+    ☕ Fale comigo <a href="mailto:cicero.dsantos@outlook.com.br"><strong>clicando aqui ⚡</strong></a>
   </p>
 </div>
 
